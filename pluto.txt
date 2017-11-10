@@ -2,4 +2,8 @@ Pluto is not a planet
 
 Message from your PI :-)
 Neil deGrasse Tyson was wrong, Pluto is clearly a planet.
+<<<<<<< HEAD
 Pluto is just an ackward, oddball planet. 
+Neil deGrasse Tyson rocks! 
+
+>>>>>>> 19728156ce61d391139954b66996884028129308
